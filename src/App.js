@@ -1,11 +1,10 @@
-
-import './App.css';
+import Navbar from "./Pages/Shared/Navber/Navbar";
 
 function App() {
   return (
-    <div className="App">
-     
-    </div>
+    <>
+     <Navbar />
+    </>
   );
 }
 
