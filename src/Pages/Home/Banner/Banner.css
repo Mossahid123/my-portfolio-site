@@ -1,6 +1,6 @@
 header {
     height: 100vh;
-    padding-top: 2rem;
+    padding-top: 1rem;
     overflow: hidden;
   }
   .header_container {
@@ -11,5 +11,25 @@ header {
   #text h1,
   h5 {
     color: var(--color-primary);
-    margin-top: 50px;
+    margin-top: 20px;
+  }
+  h5{
+    font-size: 24px;
+  }
+
+  /* ========== Header Social ========== */
+.header_socials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.8rem;
+    position: absolute;
+    left: 0;
+    bottom: 10rem;
+  }
+  .header_socials::after {
+    content: "";
+    width: 2px;
+    height: 3rem;
+    background: var(--color-primary);
   }
