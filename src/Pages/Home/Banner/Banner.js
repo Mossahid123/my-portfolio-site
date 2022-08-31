@@ -2,6 +2,7 @@ import React from 'react';
 import './Banner.css'
 import Typed from "react-typed";
 import SocialMedia from '../SocialMedia/SocialMedia';
+import Resume from '../Resume/Resume';
 
 const Banner = () => {
     return (
@@ -32,14 +33,10 @@ const Banner = () => {
                         backSpeed={60}
                     />
                 </h5>
-                {/* <CTA /> */}
+                <Resume />
                 <SocialMedia />
-                {/* <div className="me">
-          <img src={me} alt="me" />
-        </div> */}
-                <a href="#contact" className="scroll_down">
-                    Scroll Down
-                </a>
+
+
             </div>
         </header>
     );
