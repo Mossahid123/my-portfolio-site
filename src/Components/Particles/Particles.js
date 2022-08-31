@@ -68,7 +68,7 @@ const Particle = () => {
           modes: {
             attract: {
               distance: 200,
-              duration: 0.4,
+              duration: 0.7,
               easing: "ease-out-quad",
               factor: 1,
               maxSpeed: 50,

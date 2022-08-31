@@ -1,0 +1,15 @@
+header {
+    height: 100vh;
+    padding-top: 2rem;
+    overflow: hidden;
+  }
+  .header_container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+  }
+  #text h1,
+  h5 {
+    color: var(--color-primary);
+    margin-top: 50px;
+  }
