@@ -21,28 +21,28 @@ const About = () => {
                         <article className="about_card">
                             <FaAward className="about_icon" />
                             <h5>Experience</h5>
-                            <small>2+ Years Working</small>
+                            <small> 1  Year  Working</small>
                         </article>
                         <article className="about_card">
                             <FiUsers className="about_icon" />
                             <h5>Clients</h5>
-                            <small>200+ Worldwide</small>
+                            <small>Not Yet</small>
                         </article>
                         <article className="about_card">
                             <VscFolderLibrary className="about_icon" />
                             <h5>Projects</h5>
-                            <small>20+ Completed</small>
+                            <small>10+ Completed</small>
                         </article>
                     </div>
                     <p>
-                        Hello !! My name is Abdullah Al Mahmud. I want to gain confidence
-                        and fame using my potential in this position, and express my
+                        Hello !! I'm Md.Hossain Sarker. I would like to gain confidence
+                        and fame using my potential in this sector, and express my
                         innovative creative skills for self and company growth. I am a
                         hardworking and quick learner person. I believe hard work is the
                         only way to success. Love to learn new technology and try to improve
                         myself.
                     </p>
-                    <a href="https://m.me/mahmud2640" className="btn btn-primary">
+                    <a href="https://www.linkedin.com/in/md-hossain-sarker-539170241/" className="btn btn-primary">
                         Let's Talk
                     </a>
                 </div>
