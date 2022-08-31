@@ -1,7 +1,7 @@
 import React from 'react';
 import './Banner.css'
 import Typed from "react-typed";
-import SocialMedia from '../SocialMedia/SocialMedia';
+import SocialMedia from '../../../Components/SocialMedia/SocialMedia';
 import Resume from '../Resume/Resume';
 
 const Banner = () => {
