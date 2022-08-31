@@ -34,14 +34,9 @@ header {
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 10rem;
+    bottom: 5rem;
   }
-  .header_socials::after {
-    content: "";
-    width: 2px;
-    height: 3rem;
-    background: var(--color-primary);
-  }
+  
 
   @media screen and (max-width: 1024px) {
     header {

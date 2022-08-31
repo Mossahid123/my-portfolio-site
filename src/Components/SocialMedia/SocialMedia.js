@@ -7,7 +7,7 @@ import { SiFacebook } from "react-icons/si";
 const SocialMedia = () => {
     return (
         <div className="header_socials">
-            <h5>Social Media</h5>
+            <h5 className='mb-8'>Social Media</h5>
             <a
                 href="https://www.linkedin.com/in/md-hossain-sarker-539170241/"
                 rel="noreferrer"

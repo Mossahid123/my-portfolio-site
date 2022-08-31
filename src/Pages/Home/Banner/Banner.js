@@ -8,7 +8,7 @@ const Banner = () => {
     return (
         <header id="top">
             <div id="text" className="container header_container">
-                <h5>Hello I'm</h5>
+                <h5 className='text-red-500'>Hello I'm</h5>
                 <h1>
                     <Typed
                         strings={[
