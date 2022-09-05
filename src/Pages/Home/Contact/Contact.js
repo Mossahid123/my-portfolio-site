@@ -39,9 +39,9 @@ const Contact = () => {
           <article className="contact_option">
             <MdOutlineEmail className="contact_icon" />
             <h4>Email</h4>
-            <h5>mdmahmud484@gmail.com</h5>
+            <h5>mossahidhossain309@gmail.com</h5>
             <a
-              href="mailto:mdmahmud484@gmail.com"
+              href="mailto:mossahidhossain309@gmail.com"
               rel="noreferrer"
               target="_blank"
             >
@@ -51,15 +51,15 @@ const Contact = () => {
           <article className="contact_option">
             <RiMessengerLine className="contact_icon" />
             <h4>Messanger</h4>
-            <h5>Abdullah Al Mahmud</h5>
-            <a href="https://m.me/mahmud2640" rel="noreferrer" target="_blank">
+            <h5>Mossahid Hossain</h5>
+            <a href="https://www.facebook.com/mossahid.hossain" rel="noreferrer" target="_blank">
               Send a Message
             </a>
           </article>
           <article className="contact_option">
             <BsWhatsapp className="contact_icon" />
             <h4>Whatsapp</h4>
-            <h5>017******40</h5>
+            <h5>+8801907645782</h5>
             <a
               href="https://wa.me/+8801792492640"
               rel="noreferrer"
