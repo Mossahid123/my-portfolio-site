@@ -9,7 +9,7 @@ const Portfolio = () => {
   };
   const [projects, setProjects] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5000/project")
+    fetch("projects.json")
       .then((res) => res.json())
       .then((data) => setProjects(data));
   }, []);
