@@ -15,7 +15,7 @@
       "description": "This website is a warehouse inventory management website. # Features -- 1. This application usually helps deller and wholesale retailer. 2.. On this website, you can add, restock and delete products.  3.. Single Page web application, Google and Email Authentication (Sign In | Sign Up)  4.. Dealers can update and manage their stokes. 5.. Technology: React, React Routing, Bootstrap, Firebase Authentication, Express, MongoDB, Heroku.",
       "client": "https://github.com/Mahmud2640/assainment-11-client",
       "server": "https://github.com/Mahmud2640/assainment-11-server",
-      "demo": "https://h-power-8ab5a.web.app"
+      "demo":  "https://assingment-11-hussain.firebaseapp.com/"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "description": "This website is an independent service provider website. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in.  3.. Implement Google and Email Authentication and also user create account.  4.. If user forget her password then he/she can reset her password.  5.. Technology: React, React Routing, Bootstrap, Firebase Authentication, Firebase Hosting",
       "client": "https://github.com/Mahmud2640/assainment-10",
       "server": "https://github.com/Mahmud2640/assainment-10",
-      "demo": "https://doctors-talk-5db9c.web.app"
+      "demo": "https://assingment-10-94ea7.firebaseapp.com/"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "description": "This website is an contacting service provider. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in. Technology: React, React Routing, Bootstrap",
       "client": "https://github.com/Mahmud2640/fnfqa-react-project",
       "server": "https://github.com/Mahmud2640/fnfqa-react-project",
-      "demo": "https://www.fnfqa.com"
+      "demo": "https://gentle-sfogliatella-387ee4.netlify.app"
     },
     {
       "id": 5,
@@ -48,10 +48,10 @@
       "id": 6,
       "image": "https://i.ibb.co/H7cMrx8/Hammadi-Travel-min.png",
       "title": "Hammadi Travel",
-      "description": "This website is an Travel Agency website. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in. Technology: html, css, js and Bootstrap",
+      "description": "This website is a car menufactures website. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in. Technology: html, css, js and Bootstrap",
       "client": "https://github.com/Mahmud2640/Hammadi-Travels",
       "server": "https://github.com/Mahmud2640/Hammadi-Travels",
-      "demo": "https://www.hammaditravel.com"
+      "demo": "https://assingment-12-hussain.firebaseapp.com/"
     }
   ]
   
