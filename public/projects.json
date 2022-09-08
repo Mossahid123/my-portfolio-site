@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "image": "https://meetrooms.herokuapp.com/",
+      "image": "https://i.ibb.co/7z0hyzz/Screen-Shot-Tool-20220909001712.jpg",
       "title": "Meet Room",
       "description": " This is a team project .This website is an video conference based  website. # Features -- 1..This application for a person who want to arrange meeting. 2.. On this website user will able to chitchat with whoever he wants. He can arrange a meeting with 600 people at a time.  3.. Implement Google and Email Authentication and also user create account.  4.. If user forget her password then he/she can reset her password.  5.. Technology: React, React Routing, Bootstrap, Firebase Authentication, Firebase Hosting",
       "client": "https://github.com/HappyCodersProgrammer/MeetRoom",
