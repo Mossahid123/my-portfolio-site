@@ -1,57 +1,30 @@
 [
     {
       "id": 1,
-      "image": "https://i.ibb.co/b1kNmLh/H-Power-Pc-House-1.png",
-      "title": "Computer Accessories",
+      "image": "https://i.ibb.co/mBcv2vD/Screen-Shot-Tool-20220908233452.jpg",
+      "title": "Car manufacturers",
       "description": "This website is parts manufacturer seller website. Where a lot of parts are available for wholesale sales and you can also add products and delete them. ## Features  1.On this website, you can order any tools when you log in to this site.  2. Here have a client and an admin dashboard to control website content.  3. For the admin role, I implement JWT for verification.  4. You can also add reviews about our services.  5. Technology: React, React Routing, TailwindCSS, DaisyUI, Firebase Authentication, Express, MongoDB, Heroku, React hook form, React query.",
-      "client": "https://github.com/Mahmud2640/assainment-12-client",
-      "server": "https://github.com/Mahmud2640/assainment-12-server",
-      "demo": "https://h-power-8ab5a.web.app"
+      "client": "https://github.com/Mossahid123/MHS",
+      "server": "https://github.com/Mossahid123/MHS-SERVER",
+      "demo": "https://assingment-12-hussain.firebaseapp.com/"
     },
     {
       "id": 2,
-      "image": "https://i.ibb.co/D1Sr623/Singer-Bangladesh-min.png",
-      "title": "Electronic warehouse",
+      "image": "https://i.ibb.co/JKq6WCS/Screen-Shot-Tool-20220908234410.jpg",
+      "title": "Inventory",
       "description": "This website is a warehouse inventory management website. # Features -- 1. This application usually helps deller and wholesale retailer. 2.. On this website, you can add, restock and delete products.  3.. Single Page web application, Google and Email Authentication (Sign In | Sign Up)  4.. Dealers can update and manage their stokes. 5.. Technology: React, React Routing, Bootstrap, Firebase Authentication, Express, MongoDB, Heroku.",
-      "client": "https://github.com/Mahmud2640/assainment-11-client",
-      "server": "https://github.com/Mahmud2640/assainment-11-server",
+      "client": "https://github.com/Mossahid123/Inventory-Client-Site",
+      "server": "https://github.com/Mossahid123/Inventory-server-site",
       "demo":  "https://assingment-11-hussain.firebaseapp.com/"
     },
     {
       "id": 3,
-      "image": "https://i.ibb.co/WgxWq6w/Doctors-Talk-min.png",
-      "title": "Doctors- Talk",
-      "description": "This website is an independent service provider website. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in.  3.. Implement Google and Email Authentication and also user create account.  4.. If user forget her password then he/she can reset her password.  5.. Technology: React, React Routing, Bootstrap, Firebase Authentication, Firebase Hosting",
-      "client": "https://github.com/Mahmud2640/assainment-10",
-      "server": "https://github.com/Mahmud2640/assainment-10",
-      "demo": "https://assingment-10-94ea7.firebaseapp.com/"
-    },
-    {
-      "id": 4,
-      "image": "https://i.ibb.co/Q7By6Br/FNF-min.png",
-      "title": "FnF Trading Contacting and Service",
-      "description": "This website is an contacting service provider. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in. Technology: React, React Routing, Bootstrap",
-      "client": "https://github.com/Mahmud2640/fnfqa-react-project",
-      "server": "https://github.com/Mahmud2640/fnfqa-react-project",
-      "demo": "https://gentle-sfogliatella-387ee4.netlify.app"
-    },
-    {
-      "id": 5,
-      "image": "https://i.ibb.co/2sWSmdh/Singer-BD-Plus-min.png",
-      "title": "Choose Your best product",
-      "description": "This website is an e-commarce website. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in. Technology: React, React Routing, Bootstrap",
-      "client": "https://github.com/Mahmud2640/assainment-8-resubmit",
-      "server": "https://github.com/Mahmud2640/assainment-8-resubmit",
-      "demo": "https://assainment-8-resubmit.netlify.app/"
-    },
-    {
-      "id": 6,
-      "image": "https://i.ibb.co/H7cMrx8/Hammadi-Travel-min.png",
-      "title": "Hammadi Travel",
-      "description": "This website is a car menufactures website. # Features -- 1..This application for a person who provide many services for online. 2.. On this website user booking service when he/she log in. Technology: html, css, js and Bootstrap",
-      "client": "https://github.com/Mahmud2640/Hammadi-Travels",
-      "server": "https://github.com/Mahmud2640/Hammadi-Travels",
-      "demo": "https://assingment-12-hussain.firebaseapp.com/"
+      "image": "https://meetrooms.herokuapp.com/",
+      "title": "Meet Room",
+      "description": " This is a team project .This website is an video conference based  website. # Features -- 1..This application for a person who want to arrange meeting. 2.. On this website user will able to chitchat with whoever he wants. He can arrange a meeting with 600 people at a time.  3.. Implement Google and Email Authentication and also user create account.  4.. If user forget her password then he/she can reset her password.  5.. Technology: React, React Routing, Bootstrap, Firebase Authentication, Firebase Hosting",
+      "client": "https://github.com/HappyCodersProgrammer/MeetRoom",
+      
+      "demo": "https://meetrooms.herokuapp.com/"
     }
   ]
   
