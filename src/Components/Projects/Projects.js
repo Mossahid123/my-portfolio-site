@@ -9,6 +9,7 @@ const Projects = () => {
   const { data: details, isLoading } = useQuery([projectId, "prodetails"], () =>
     fetch(url).then((res) => res.json())
   );
+  console.log(details);
   if (isLoading) {
     return <Loading></Loading>;
   }
