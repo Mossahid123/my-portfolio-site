@@ -12,7 +12,7 @@ const Banner = () => {
                 <h1>
                     <Typed
                         strings={[
-                            "Mossahid Hussain",
+                            "Md Hossain Sarker",
 
                         ]}
                         loop
@@ -24,7 +24,7 @@ const Banner = () => {
                     <Typed
                         strings={[
                             "Full Stack Developer",
-                            "Front-End Web Developer",
+                            "Front-End Developer",
                             "MERN Stack Developer",
                             "React Developer",
                         ]}
